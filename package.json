@@ -1,0 +1,22 @@
+{
+  "name": "easy git",
+  "version": "0.0.0",
+  "description": "Express 4.x app using Passport for authentication with Facebook.",
+  "keywords": [
+    "git",
+    "heroku"
+  ],
+  "author": "Jared Hanson",
+  "license": "Unlicense",
+  "homepage": "https://github.com/archishakinko/easyGit.git",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/archishakinko/easyGit.git"
+  },
+  "bugs": {
+    "url": "https://github.com/archishakinko/easyGit/issues"
+  },
+  "enjines": {
+    "node": "7.8.0"
+  }
+}
